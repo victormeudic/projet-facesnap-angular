@@ -1,20 +1,29 @@
-header {
-  text-align: center;
-  background-color: #eee;
-  margin-bottom: 20px;
-  padding: 10px;
+nav {
+  h1 {
+    font-size: 32px;
+    font-weight: 500;
+  }
+  background-color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 24px;
+  font-weight: 500;
+  border-bottom: 1px solid #e5e5e5;
 }
 
 a {
   margin: 0 10px;
-  color: #333;
   text-decoration: none;
+  color: black;
   &:hover {
     text-decoration: underline;
   }
 }
 
 .active {
-  color: #666;
+  color: black;
   text-decoration: underline;
 }
