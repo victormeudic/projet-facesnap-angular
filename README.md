@@ -1,1 +1,1 @@
-Projet via le de openclassrooms sur angualar d'une sorte de réseau social qui s'appelle face snap
+Projet via le sit de openclassrooms sur angular. L'appli est un réseau social qui s'appelle face snap.
